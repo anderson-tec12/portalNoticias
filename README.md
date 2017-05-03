@@ -6,4 +6,4 @@ as informações de configuração com o banco
 
 no arquivo packet.json contem as informações dos modulos nescessarios para o funcionamento.
 
-No lado docliente usamos o bootstrap pois o foco foi mais o back-end.
+No lado do cliente usamos o bootstrap pois o foco foi mais o back-end.
